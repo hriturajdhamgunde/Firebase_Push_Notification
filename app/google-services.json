@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881950274561",
+    "firebase_url": "https://fir-messaging-service-fb340.firebaseio.com",
+    "project_id": "fir-messaging-service-fb340",
+    "storage_bucket": "fir-messaging-service-fb340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881950274561:android:ba869c68a5cf75dde87c00",
+        "android_client_info": {
+          "package_name": "com.example.firebasemessagingservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881950274561-hvr87f7k5n009at0i5jocr2qaemt1rbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeI3AVKg9tAEIz5G-5WmhTCQKRfgN25ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881950274561-hvr87f7k5n009at0i5jocr2qaemt1rbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
